@@ -1,0 +1,11 @@
+Age,Salary,YearsAtCompany,WorkLifeBalance,Department,Attrition
+25,35000,1,2,IT,Yes
+32,60000,5,3,HR,No
+28,42000,3,2,IT,Yes
+45,90000,10,4,Manufacturing,No
+30,50000,4,3,HR,No
+38,70000,8,2,Manufacturing,Yes
+26,36000,2,1,IT,Yes
+41,85000,12,4,Manufacturing,No
+29,48000,3,3,HR,No
+35,65000,6,2,IT,Yes
